@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:14:13	133376/133376	---M-Z	200	added ('OK')	text/html	date:Fri,%2008%20Nov%202024%2014:12:59%20GMT	https://heyzine.com/flip-book/73d2da1640.html	C:/My%20Web%20Sites/clone%201/heyzine.com/flip-book/73d2da1640.html	(from )
+16:14:13	110/110	---M-Z	200	added ('OK')	text/plain	etag:%2267-5ee387f8bc940-gzip%22	https://heyzine.com/robots.txt		(from )
+16:14:20	85358/85358	---M--	200	added ('OK')	image/jpeg	etag:W/%2214d6e-62646bcfd3f13%22	https://cdnc.heyzine.com/files/uploaded/73d2da1640888058f74a3995ff87a2a499f77d10.pdf-thumb.jpg	C:/My%20Web%20Sites/clone%201/cdnc.heyzine.com/files/uploaded/73d2da1640888058f74a3995ff87a2a499f77d10.pdf-thumb.jpg	(from https://heyzine.com/flip-book/73d2da1640.html)

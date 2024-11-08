@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+heyzine.com	TRUE	/	FALSE	1999999999	heyzine_session	jimq4pj3t1t5of57uok4bip63n
+heyzine.com	TRUE	/	FALSE	1999999999	SameSite	None
+
